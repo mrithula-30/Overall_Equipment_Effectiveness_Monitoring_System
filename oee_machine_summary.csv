@@ -1,0 +1,4 @@
+machine_id,avg_availability,avg_performance,avg_quality,avg_oee
+PNEU-M1,0.9587,0.8586,0.9602,0.7904
+PNEU-M2,0.9381,0.8674,0.9525,0.7752
+PNEU-M3,0.9696,0.8566,0.967,0.803
