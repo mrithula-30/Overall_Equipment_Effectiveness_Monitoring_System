@@ -1,0 +1,541 @@
+date,machine_id,shift,planned_production_time_min,downtime_min,downtime_reason,units_produced,target_rate_per_hour,defective_units
+1/1/2026,PNEU-M1,Morning,480,23.9,Operator break overrun,382,60,8
+1/1/2026,PNEU-M1,Afternoon,480,62.4,Scheduled maintenance,364,60,20
+1/1/2026,PNEU-M1,Night,480,10.2,Sensor fault,379,60,15
+1/1/2026,PNEU-M2,Morning,480,16.4,Sensor fault,368,55,12
+1/1/2026,PNEU-M2,Afternoon,480,26,Operator break overrun,352,55,9
+1/1/2026,PNEU-M2,Night,480,30.8,Sensor fault,353,55,21
+1/1/2026,PNEU-M3,Morning,480,11.9,Sensor fault,429,65,9
+1/1/2026,PNEU-M3,Afternoon,480,11.7,Scheduled maintenance,421,65,17
+1/1/2026,PNEU-M3,Night,480,0,No downtime,487,65,8
+1/2/2026,PNEU-M1,Morning,480,19.3,Valve leakage,311,60,7
+1/2/2026,PNEU-M1,Afternoon,480,19,Material shortage,403,60,10
+1/2/2026,PNEU-M1,Night,480,0,No downtime,390,60,21
+1/2/2026,PNEU-M2,Morning,480,30.1,Operator break overrun,292,55,10
+1/2/2026,PNEU-M2,Afternoon,480,36.2,Scheduled maintenance,366,55,11
+1/2/2026,PNEU-M2,Night,480,33,Valve leakage,390,55,8
+1/2/2026,PNEU-M3,Morning,480,28.2,Material shortage,462,65,11
+1/2/2026,PNEU-M3,Afternoon,480,23.9,Operator break overrun,431,65,10
+1/2/2026,PNEU-M3,Night,480,23.2,Scheduled maintenance,316,65,14
+1/3/2026,PNEU-M1,Morning,480,17.8,Sensor fault,381,60,13
+1/3/2026,PNEU-M1,Afternoon,480,21.7,Scheduled maintenance,449,60,23
+1/3/2026,PNEU-M1,Night,480,20.7,Operator break overrun,423,60,18
+1/3/2026,PNEU-M2,Morning,480,29.5,Material shortage,339,55,20
+1/3/2026,PNEU-M2,Afternoon,480,17.9,Air pressure drop,330,55,13
+1/3/2026,PNEU-M2,Night,480,5.6,Air pressure drop,339,55,13
+1/3/2026,PNEU-M3,Morning,480,0,No downtime,520,65,12
+1/3/2026,PNEU-M3,Afternoon,480,6.5,Air pressure drop,408,65,13
+1/3/2026,PNEU-M3,Night,480,6.4,Scheduled maintenance,402,65,8
+1/4/2026,PNEU-M1,Morning,480,6.9,Air pressure drop,399,60,18
+1/4/2026,PNEU-M1,Afternoon,480,15.7,Material shortage,385,60,15
+1/4/2026,PNEU-M1,Night,480,5.7,Sensor fault,395,60,11
+1/4/2026,PNEU-M2,Morning,480,39.1,Valve leakage,323,55,18
+1/4/2026,PNEU-M2,Afternoon,480,89.5,Air pressure drop,305,55,8
+1/4/2026,PNEU-M2,Night,480,40.7,Sensor fault,356,55,17
+1/4/2026,PNEU-M3,Morning,480,9.9,Sensor fault,427,65,18
+1/4/2026,PNEU-M3,Afternoon,480,30.8,Air pressure drop,416,65,12
+1/4/2026,PNEU-M3,Night,480,19.9,Valve leakage,424,65,17
+1/5/2026,PNEU-M1,Morning,480,17.5,Air pressure drop,411,60,22
+1/5/2026,PNEU-M1,Afternoon,480,6.4,Sensor fault,412,60,18
+1/5/2026,PNEU-M1,Night,480,9.3,Material shortage,408,60,21
+1/5/2026,PNEU-M2,Morning,480,72.9,Air pressure drop,322,55,8
+1/5/2026,PNEU-M2,Afternoon,480,47.9,Air pressure drop,378,55,18
+1/5/2026,PNEU-M2,Night,480,17.1,Scheduled maintenance,388,55,31
+1/5/2026,PNEU-M3,Morning,480,11,Material shortage,401,65,16
+1/5/2026,PNEU-M3,Afternoon,480,14,Scheduled maintenance,350,65,8
+1/5/2026,PNEU-M3,Night,480,33,Sensor fault,457,65,10
+1/6/2026,PNEU-M1,Morning,480,32.7,Air pressure drop,316,60,11
+1/6/2026,PNEU-M1,Afternoon,480,21.3,Operator break overrun,408,60,19
+1/6/2026,PNEU-M1,Night,480,15.7,Air pressure drop,386,60,12
+1/6/2026,PNEU-M2,Morning,480,14,Valve leakage,335,55,20
+1/6/2026,PNEU-M2,Afternoon,480,25,Material shortage,362,55,12
+1/6/2026,PNEU-M2,Night,480,48.1,Air pressure drop,338,55,18
+1/6/2026,PNEU-M3,Morning,480,7.1,Valve leakage,456,65,19
+1/6/2026,PNEU-M3,Afternoon,480,19.4,Air pressure drop,498,65,16
+1/6/2026,PNEU-M3,Night,480,7.4,Scheduled maintenance,387,65,6
+1/7/2026,PNEU-M1,Morning,480,18.9,Air pressure drop,360,60,15
+1/7/2026,PNEU-M1,Afternoon,480,18.6,Valve leakage,374,60,21
+1/7/2026,PNEU-M1,Night,480,17.5,Sensor fault,353,60,13
+1/7/2026,PNEU-M2,Morning,480,34,Sensor fault,401,55,13
+1/7/2026,PNEU-M2,Afternoon,480,21.4,Valve leakage,340,55,11
+1/7/2026,PNEU-M2,Night,480,68.1,Air pressure drop,274,55,11
+1/7/2026,PNEU-M3,Morning,480,15.3,Operator break overrun,451,65,8
+1/7/2026,PNEU-M3,Afternoon,480,42.9,Scheduled maintenance,393,65,24
+1/7/2026,PNEU-M3,Night,480,13.1,Air pressure drop,392,65,25
+1/8/2026,PNEU-M1,Morning,480,11,Material shortage,382,60,16
+1/8/2026,PNEU-M1,Afternoon,480,43.1,Air pressure drop,321,60,22
+1/8/2026,PNEU-M1,Night,480,22.6,Valve leakage,391,60,13
+1/8/2026,PNEU-M2,Morning,480,25.4,Sensor fault,376,55,19
+1/8/2026,PNEU-M2,Afternoon,480,18.8,Sensor fault,374,55,17
+1/8/2026,PNEU-M2,Night,480,15.6,Valve leakage,368,55,10
+1/8/2026,PNEU-M3,Morning,480,31.4,Sensor fault,372,65,20
+1/8/2026,PNEU-M3,Afternoon,480,18.5,Operator break overrun,421,65,19
+1/8/2026,PNEU-M3,Night,480,20.7,Sensor fault,473,65,13
+1/9/2026,PNEU-M1,Morning,480,24.8,Air pressure drop,379,60,21
+1/9/2026,PNEU-M1,Afternoon,480,30.4,Material shortage,382,60,20
+1/9/2026,PNEU-M1,Night,480,10.8,Air pressure drop,434,60,14
+1/9/2026,PNEU-M2,Morning,480,46,Sensor fault,397,55,26
+1/9/2026,PNEU-M2,Afternoon,480,0,No downtime,358,55,24
+1/9/2026,PNEU-M2,Night,480,40.8,Air pressure drop,400,55,22
+1/9/2026,PNEU-M3,Morning,480,14.3,Material shortage,432,65,13
+1/9/2026,PNEU-M3,Afternoon,480,15.6,Valve leakage,429,65,8
+1/9/2026,PNEU-M3,Night,480,18.5,Material shortage,366,65,9
+1/10/2026,PNEU-M1,Morning,480,14.1,Material shortage,358,60,18
+1/10/2026,PNEU-M1,Afternoon,480,9,Valve leakage,329,60,9
+1/10/2026,PNEU-M1,Night,480,16.1,Operator break overrun,414,60,21
+1/10/2026,PNEU-M2,Morning,480,8.5,Sensor fault,393,55,23
+1/10/2026,PNEU-M2,Afternoon,480,16.8,Material shortage,296,55,17
+1/10/2026,PNEU-M2,Night,480,20.4,Air pressure drop,367,55,32
+1/10/2026,PNEU-M3,Morning,480,18,Air pressure drop,473,65,28
+1/10/2026,PNEU-M3,Afternoon,480,12.2,Valve leakage,470,65,15
+1/10/2026,PNEU-M3,Night,480,0,No downtime,410,65,15
+1/11/2026,PNEU-M1,Morning,480,21.5,Sensor fault,458,60,7
+1/11/2026,PNEU-M1,Afternoon,480,27.1,Scheduled maintenance,411,60,25
+1/11/2026,PNEU-M1,Night,480,27.4,Operator break overrun,379,60,13
+1/11/2026,PNEU-M2,Morning,480,7.9,Valve leakage,308,55,22
+1/11/2026,PNEU-M2,Afternoon,480,21.3,Air pressure drop,399,55,21
+1/11/2026,PNEU-M2,Night,480,77.7,Scheduled maintenance,358,55,19
+1/11/2026,PNEU-M3,Morning,480,10.4,Scheduled maintenance,367,65,8
+1/11/2026,PNEU-M3,Afternoon,480,7.5,Valve leakage,401,65,12
+1/11/2026,PNEU-M3,Night,480,16,Scheduled maintenance,502,65,24
+1/12/2026,PNEU-M1,Morning,480,10.3,Material shortage,389,60,21
+1/12/2026,PNEU-M1,Afternoon,480,26.5,Scheduled maintenance,435,60,18
+1/12/2026,PNEU-M1,Night,480,29.3,Valve leakage,320,60,19
+1/12/2026,PNEU-M2,Morning,480,43.3,Material shortage,335,55,21
+1/12/2026,PNEU-M2,Afternoon,480,21.5,Valve leakage,299,55,14
+1/12/2026,PNEU-M2,Night,480,31,Operator break overrun,348,55,19
+1/12/2026,PNEU-M3,Morning,480,0,No downtime,351,65,22
+1/12/2026,PNEU-M3,Afternoon,480,0,No downtime,504,65,21
+1/12/2026,PNEU-M3,Night,480,6,Scheduled maintenance,455,65,16
+1/13/2026,PNEU-M1,Morning,480,0,No downtime,427,60,8
+1/13/2026,PNEU-M1,Afternoon,480,0,No downtime,472,60,35
+1/13/2026,PNEU-M1,Night,480,29,Valve leakage,372,60,14
+1/13/2026,PNEU-M2,Morning,480,24.1,Air pressure drop,359,55,29
+1/13/2026,PNEU-M2,Afternoon,480,17.1,Sensor fault,324,55,19
+1/13/2026,PNEU-M2,Night,480,39.9,Material shortage,367,55,12
+1/13/2026,PNEU-M3,Morning,480,41.5,Scheduled maintenance,413,65,19
+1/13/2026,PNEU-M3,Afternoon,480,5.5,Material shortage,422,65,20
+1/13/2026,PNEU-M3,Night,480,6.2,Sensor fault,426,65,11
+1/14/2026,PNEU-M1,Morning,480,6.2,Air pressure drop,389,60,3
+1/14/2026,PNEU-M1,Afternoon,480,40.7,Sensor fault,327,60,24
+1/14/2026,PNEU-M1,Night,480,33.5,Air pressure drop,307,60,17
+1/14/2026,PNEU-M2,Morning,480,38.7,Scheduled maintenance,334,55,7
+1/14/2026,PNEU-M2,Afternoon,480,35.1,Material shortage,339,55,2
+1/14/2026,PNEU-M2,Night,480,40.9,Material shortage,346,55,12
+1/14/2026,PNEU-M3,Morning,480,8.6,Air pressure drop,445,65,26
+1/14/2026,PNEU-M3,Afternoon,480,30.7,Valve leakage,410,65,10
+1/14/2026,PNEU-M3,Night,480,0,No downtime,422,65,13
+1/15/2026,PNEU-M1,Morning,480,0,No downtime,438,60,17
+1/15/2026,PNEU-M1,Afternoon,480,5.4,Air pressure drop,375,60,2
+1/15/2026,PNEU-M1,Night,480,58,Valve leakage,421,60,31
+1/15/2026,PNEU-M2,Morning,480,14,Air pressure drop,378,55,22
+1/15/2026,PNEU-M2,Afternoon,480,38,Valve leakage,339,55,19
+1/15/2026,PNEU-M2,Night,480,65.1,Scheduled maintenance,305,55,17
+1/15/2026,PNEU-M3,Morning,480,10.3,Scheduled maintenance,419,65,19
+1/15/2026,PNEU-M3,Afternoon,480,16,Valve leakage,475,65,14
+1/15/2026,PNEU-M3,Night,480,0,No downtime,400,65,20
+1/16/2026,PNEU-M1,Morning,480,8,Air pressure drop,355,60,5
+1/16/2026,PNEU-M1,Afternoon,480,8.8,Scheduled maintenance,402,60,4
+1/16/2026,PNEU-M1,Night,480,8.6,Valve leakage,413,60,13
+1/16/2026,PNEU-M2,Morning,480,36.7,Sensor fault,406,55,26
+1/16/2026,PNEU-M2,Afternoon,480,38.9,Sensor fault,392,55,21
+1/16/2026,PNEU-M2,Night,480,17.6,Sensor fault,388,55,34
+1/16/2026,PNEU-M3,Morning,480,5.8,Operator break overrun,330,65,10
+1/16/2026,PNEU-M3,Afternoon,480,32.3,Scheduled maintenance,484,65,10
+1/16/2026,PNEU-M3,Night,480,8.7,Material shortage,417,65,6
+1/17/2026,PNEU-M1,Morning,480,29.5,Material shortage,328,60,11
+1/17/2026,PNEU-M1,Afternoon,480,11.6,Scheduled maintenance,402,60,20
+1/17/2026,PNEU-M1,Night,480,23.7,Valve leakage,396,60,12
+1/17/2026,PNEU-M2,Morning,480,55.7,Scheduled maintenance,336,55,16
+1/17/2026,PNEU-M2,Afternoon,480,21.7,Operator break overrun,383,55,15
+1/17/2026,PNEU-M2,Night,480,16.4,Air pressure drop,363,55,24
+1/17/2026,PNEU-M3,Morning,480,0,No downtime,505,65,25
+1/17/2026,PNEU-M3,Afternoon,480,8.2,Air pressure drop,425,65,9
+1/17/2026,PNEU-M3,Night,480,0,No downtime,326,65,9
+1/18/2026,PNEU-M1,Morning,480,17.8,Material shortage,392,60,7
+1/18/2026,PNEU-M1,Afternoon,480,29.4,Scheduled maintenance,377,60,9
+1/18/2026,PNEU-M1,Night,480,24.3,Air pressure drop,427,60,18
+1/18/2026,PNEU-M2,Morning,480,6.5,Operator break overrun,374,55,8
+1/18/2026,PNEU-M2,Afternoon,480,0,No downtime,358,55,3
+1/18/2026,PNEU-M2,Night,480,5.8,Scheduled maintenance,420,55,30
+1/18/2026,PNEU-M3,Morning,480,0,No downtime,493,65,3
+1/18/2026,PNEU-M3,Afternoon,480,10.1,Scheduled maintenance,417,65,7
+1/18/2026,PNEU-M3,Night,480,6.8,Sensor fault,485,65,3
+1/19/2026,PNEU-M1,Morning,480,8.6,Material shortage,377,60,19
+1/19/2026,PNEU-M1,Afternoon,480,0,No downtime,473,60,22
+1/19/2026,PNEU-M1,Night,480,38.6,Sensor fault,390,60,9
+1/19/2026,PNEU-M2,Morning,480,36.3,Valve leakage,356,55,9
+1/19/2026,PNEU-M2,Afternoon,480,44.3,Sensor fault,333,55,22
+1/19/2026,PNEU-M2,Night,480,15.3,Sensor fault,345,55,22
+1/19/2026,PNEU-M3,Morning,480,7.8,Scheduled maintenance,485,65,23
+1/19/2026,PNEU-M3,Afternoon,480,13,Air pressure drop,505,65,2
+1/19/2026,PNEU-M3,Night,480,24.5,Air pressure drop,461,65,17
+1/20/2026,PNEU-M1,Morning,480,14.4,Valve leakage,406,60,20
+1/20/2026,PNEU-M1,Afternoon,480,32.2,Valve leakage,399,60,6
+1/20/2026,PNEU-M1,Night,480,24.9,Air pressure drop,452,60,17
+1/20/2026,PNEU-M2,Morning,480,10.6,Valve leakage,334,55,26
+1/20/2026,PNEU-M2,Afternoon,480,46.9,Operator break overrun,327,55,22
+1/20/2026,PNEU-M2,Night,480,16.6,Material shortage,410,55,17
+1/20/2026,PNEU-M3,Morning,480,15.5,Valve leakage,460,65,15
+1/20/2026,PNEU-M3,Afternoon,480,22.6,Material shortage,480,65,16
+1/20/2026,PNEU-M3,Night,480,0,No downtime,390,65,14
+1/21/2026,PNEU-M1,Morning,480,19.9,Scheduled maintenance,399,60,22
+1/21/2026,PNEU-M1,Afternoon,480,9.1,Air pressure drop,360,60,4
+1/21/2026,PNEU-M1,Night,480,28.7,Scheduled maintenance,441,60,20
+1/21/2026,PNEU-M2,Morning,480,34.3,Material shortage,379,55,14
+1/21/2026,PNEU-M2,Afternoon,480,27.5,Scheduled maintenance,414,55,25
+1/21/2026,PNEU-M2,Night,480,36.4,Material shortage,346,55,16
+1/21/2026,PNEU-M3,Morning,480,16.3,Air pressure drop,456,65,19
+1/21/2026,PNEU-M3,Afternoon,480,15.6,Operator break overrun,349,65,11
+1/21/2026,PNEU-M3,Night,480,17.4,Valve leakage,402,65,21
+1/22/2026,PNEU-M1,Morning,480,12.4,Sensor fault,380,60,20
+1/22/2026,PNEU-M1,Afternoon,480,0,No downtime,427,60,18
+1/22/2026,PNEU-M1,Night,480,11.2,Sensor fault,448,60,20
+1/22/2026,PNEU-M2,Morning,480,83.1,Air pressure drop,323,55,17
+1/22/2026,PNEU-M2,Afternoon,480,43.4,Scheduled maintenance,342,55,22
+1/22/2026,PNEU-M2,Night,480,15.2,Air pressure drop,410,55,7
+1/22/2026,PNEU-M3,Morning,480,20.1,Material shortage,356,65,4
+1/22/2026,PNEU-M3,Afternoon,480,6.2,Material shortage,468,65,21
+1/22/2026,PNEU-M3,Night,480,9.2,Operator break overrun,432,65,16
+1/23/2026,PNEU-M1,Morning,480,45.8,Valve leakage,334,60,10
+1/23/2026,PNEU-M1,Afternoon,480,29.3,Material shortage,413,60,17
+1/23/2026,PNEU-M1,Night,480,14.8,Material shortage,370,60,16
+1/23/2026,PNEU-M2,Morning,480,101.8,Valve leakage,283,55,13
+1/23/2026,PNEU-M2,Afternoon,480,33.9,Air pressure drop,386,55,15
+1/23/2026,PNEU-M2,Night,480,7.9,Material shortage,432,55,15
+1/23/2026,PNEU-M3,Morning,480,0,No downtime,405,65,11
+1/23/2026,PNEU-M3,Afternoon,480,13,Valve leakage,452,65,22
+1/23/2026,PNEU-M3,Night,480,6.3,Material shortage,440,65,21
+1/24/2026,PNEU-M1,Morning,480,7.2,Material shortage,436,60,17
+1/24/2026,PNEU-M1,Afternoon,480,54.2,Operator break overrun,389,60,18
+1/24/2026,PNEU-M1,Night,480,12.4,Sensor fault,428,60,20
+1/24/2026,PNEU-M2,Morning,480,48.4,Material shortage,373,55,19
+1/24/2026,PNEU-M2,Afternoon,480,20.6,Air pressure drop,345,55,11
+1/24/2026,PNEU-M2,Night,480,13,Material shortage,380,55,12
+1/24/2026,PNEU-M3,Morning,480,24.4,Operator break overrun,427,65,15
+1/24/2026,PNEU-M3,Afternoon,480,0,No downtime,473,65,26
+1/24/2026,PNEU-M3,Night,480,15.7,Material shortage,425,65,13
+1/25/2026,PNEU-M1,Morning,480,12.5,Operator break overrun,438,60,14
+1/25/2026,PNEU-M1,Afternoon,480,19.3,Air pressure drop,419,60,22
+1/25/2026,PNEU-M1,Night,480,9.2,Valve leakage,398,60,18
+1/25/2026,PNEU-M2,Morning,480,15.1,Scheduled maintenance,346,55,23
+1/25/2026,PNEU-M2,Afternoon,480,14.5,Valve leakage,387,55,8
+1/25/2026,PNEU-M2,Night,480,0,No downtime,396,55,26
+1/25/2026,PNEU-M3,Morning,480,28.6,Air pressure drop,466,65,19
+1/25/2026,PNEU-M3,Afternoon,480,16,Sensor fault,365,65,9
+1/25/2026,PNEU-M3,Night,480,12.9,Valve leakage,440,65,8
+1/26/2026,PNEU-M1,Morning,480,43.1,Scheduled maintenance,383,60,17
+1/26/2026,PNEU-M1,Afternoon,480,25.2,Scheduled maintenance,402,60,12
+1/26/2026,PNEU-M1,Night,480,31.9,Valve leakage,425,60,20
+1/26/2026,PNEU-M2,Morning,480,9.2,Sensor fault,365,55,19
+1/26/2026,PNEU-M2,Afternoon,480,0,No downtime,389,55,11
+1/26/2026,PNEU-M2,Night,480,43.4,Operator break overrun,285,55,13
+1/26/2026,PNEU-M3,Morning,480,0,No downtime,455,65,15
+1/26/2026,PNEU-M3,Afternoon,480,25,Sensor fault,469,65,10
+1/26/2026,PNEU-M3,Night,480,12.8,Air pressure drop,417,65,15
+1/27/2026,PNEU-M1,Morning,480,0,No downtime,404,60,16
+1/27/2026,PNEU-M1,Afternoon,480,8.5,Material shortage,363,60,12
+1/27/2026,PNEU-M1,Night,480,52.3,Valve leakage,385,60,15
+1/27/2026,PNEU-M2,Morning,480,18.7,Operator break overrun,420,55,22
+1/27/2026,PNEU-M2,Afternoon,480,31.2,Material shortage,372,55,15
+1/27/2026,PNEU-M2,Night,480,99.8,Sensor fault,333,55,18
+1/27/2026,PNEU-M3,Morning,480,8.2,Material shortage,433,65,11
+1/27/2026,PNEU-M3,Afternoon,480,8.9,Valve leakage,419,65,3
+1/27/2026,PNEU-M3,Night,480,20.1,Scheduled maintenance,438,65,8
+1/28/2026,PNEU-M1,Morning,480,37.4,Scheduled maintenance,336,60,16
+1/28/2026,PNEU-M1,Afternoon,480,11,Air pressure drop,406,60,14
+1/28/2026,PNEU-M1,Night,480,21.6,Valve leakage,371,60,23
+1/28/2026,PNEU-M2,Morning,480,5.6,Air pressure drop,434,55,24
+1/28/2026,PNEU-M2,Afternoon,480,21.9,Valve leakage,344,55,20
+1/28/2026,PNEU-M2,Night,480,50.4,Valve leakage,381,55,27
+1/28/2026,PNEU-M3,Morning,480,7.9,Material shortage,450,65,12
+1/28/2026,PNEU-M3,Afternoon,480,7.5,Operator break overrun,434,65,22
+1/28/2026,PNEU-M3,Night,480,19.8,Air pressure drop,409,65,10
+1/29/2026,PNEU-M1,Morning,480,20.5,Air pressure drop,342,60,19
+1/29/2026,PNEU-M1,Afternoon,480,11.3,Scheduled maintenance,411,60,15
+1/29/2026,PNEU-M1,Night,480,33.1,Operator break overrun,415,60,13
+1/29/2026,PNEU-M2,Morning,480,0,No downtime,358,55,11
+1/29/2026,PNEU-M2,Afternoon,480,34.1,Air pressure drop,293,55,20
+1/29/2026,PNEU-M2,Night,480,62.1,Sensor fault,331,55,16
+1/29/2026,PNEU-M3,Morning,480,28,Sensor fault,413,65,14
+1/29/2026,PNEU-M3,Afternoon,480,22.3,Scheduled maintenance,423,65,19
+1/29/2026,PNEU-M3,Night,480,12.5,Air pressure drop,499,65,23
+1/30/2026,PNEU-M1,Morning,480,11.2,Material shortage,306,60,12
+1/30/2026,PNEU-M1,Afternoon,480,23.2,Scheduled maintenance,456,60,17
+1/30/2026,PNEU-M1,Night,480,35.5,Valve leakage,340,60,16
+1/30/2026,PNEU-M2,Morning,480,11.5,Material shortage,358,55,18
+1/30/2026,PNEU-M2,Afternoon,480,42.9,Valve leakage,356,55,18
+1/30/2026,PNEU-M2,Night,480,26.5,Scheduled maintenance,359,55,20
+1/30/2026,PNEU-M3,Morning,480,5,Operator break overrun,464,65,21
+1/30/2026,PNEU-M3,Afternoon,480,42.2,Valve leakage,400,65,16
+1/30/2026,PNEU-M3,Night,480,16.9,Air pressure drop,443,65,17
+1/31/2026,PNEU-M1,Morning,480,8.4,Sensor fault,440,60,21
+1/31/2026,PNEU-M1,Afternoon,480,27.8,Scheduled maintenance,407,60,7
+1/31/2026,PNEU-M1,Night,480,7.5,Operator break overrun,360,60,6
+1/31/2026,PNEU-M2,Morning,480,65.6,Air pressure drop,297,55,19
+1/31/2026,PNEU-M2,Afternoon,480,92,Material shortage,307,55,10
+1/31/2026,PNEU-M2,Night,480,49.1,Scheduled maintenance,384,55,22
+1/31/2026,PNEU-M3,Morning,480,13.9,Sensor fault,373,65,5
+1/31/2026,PNEU-M3,Afternoon,480,26.9,Material shortage,490,65,23
+1/31/2026,PNEU-M3,Night,480,26.2,Operator break overrun,447,65,17
+2/1/2026,PNEU-M1,Morning,480,18,Operator break overrun,390,60,7
+2/1/2026,PNEU-M1,Afternoon,480,15.5,Sensor fault,362,60,9
+2/1/2026,PNEU-M1,Night,480,32.6,Valve leakage,358,60,22
+2/1/2026,PNEU-M2,Morning,480,40.3,Sensor fault,345,55,24
+2/1/2026,PNEU-M2,Afternoon,480,14.9,Air pressure drop,379,55,7
+2/1/2026,PNEU-M2,Night,480,32.2,Sensor fault,364,55,2
+2/1/2026,PNEU-M3,Morning,480,16.1,Valve leakage,502,65,21
+2/1/2026,PNEU-M3,Afternoon,480,0,No downtime,390,65,10
+2/1/2026,PNEU-M3,Night,480,7.2,Sensor fault,472,65,23
+2/2/2026,PNEU-M1,Morning,480,25.2,Valve leakage,454,60,9
+2/2/2026,PNEU-M1,Afternoon,480,24.4,Operator break overrun,360,60,21
+2/2/2026,PNEU-M1,Night,480,47.6,Valve leakage,392,60,7
+2/2/2026,PNEU-M2,Morning,480,37.6,Valve leakage,294,55,22
+2/2/2026,PNEU-M2,Afternoon,480,14.7,Sensor fault,375,55,26
+2/2/2026,PNEU-M2,Night,480,37.9,Sensor fault,335,55,12
+2/2/2026,PNEU-M3,Morning,480,5.4,Air pressure drop,395,65,25
+2/2/2026,PNEU-M3,Afternoon,480,19.1,Operator break overrun,462,65,20
+2/2/2026,PNEU-M3,Night,480,0,No downtime,431,65,6
+2/3/2026,PNEU-M1,Morning,480,0,No downtime,441,60,5
+2/3/2026,PNEU-M1,Afternoon,480,40,Valve leakage,398,60,15
+2/3/2026,PNEU-M1,Night,480,7.5,Air pressure drop,313,60,10
+2/3/2026,PNEU-M2,Morning,480,12.2,Sensor fault,391,55,13
+2/3/2026,PNEU-M2,Afternoon,480,27.6,Air pressure drop,357,55,32
+2/3/2026,PNEU-M2,Night,480,18.5,Air pressure drop,345,55,5
+2/3/2026,PNEU-M3,Morning,480,19.3,Valve leakage,439,65,30
+2/3/2026,PNEU-M3,Afternoon,480,13.3,Operator break overrun,463,65,16
+2/3/2026,PNEU-M3,Night,480,0,No downtime,520,65,23
+2/4/2026,PNEU-M1,Morning,480,22,Scheduled maintenance,458,60,13
+2/4/2026,PNEU-M1,Afternoon,480,33,Operator break overrun,405,60,16
+2/4/2026,PNEU-M1,Night,480,9,Material shortage,471,60,15
+2/4/2026,PNEU-M2,Morning,480,44.6,Material shortage,327,55,9
+2/4/2026,PNEU-M2,Afternoon,480,33.8,Operator break overrun,349,55,21
+2/4/2026,PNEU-M2,Night,480,16,Scheduled maintenance,413,55,28
+2/4/2026,PNEU-M3,Morning,480,11.2,Scheduled maintenance,492,65,22
+2/4/2026,PNEU-M3,Afternoon,480,33.2,Scheduled maintenance,384,65,18
+2/4/2026,PNEU-M3,Night,480,19.8,Sensor fault,386,65,5
+2/5/2026,PNEU-M1,Morning,480,31.4,Sensor fault,398,60,20
+2/5/2026,PNEU-M1,Afternoon,480,11.7,Scheduled maintenance,447,60,10
+2/5/2026,PNEU-M1,Night,480,0,No downtime,441,60,22
+2/5/2026,PNEU-M2,Morning,480,22.8,Material shortage,350,55,19
+2/5/2026,PNEU-M2,Afternoon,480,57.8,Operator break overrun,298,55,14
+2/5/2026,PNEU-M2,Night,480,0,No downtime,440,55,20
+2/5/2026,PNEU-M3,Morning,480,5.8,Sensor fault,466,65,8
+2/5/2026,PNEU-M3,Afternoon,480,18.4,Valve leakage,473,65,18
+2/5/2026,PNEU-M3,Night,480,15.6,Air pressure drop,446,65,17
+2/6/2026,PNEU-M1,Morning,480,21.2,Operator break overrun,383,60,15
+2/6/2026,PNEU-M1,Afternoon,480,40,Material shortage,419,60,26
+2/6/2026,PNEU-M1,Night,480,17.1,Sensor fault,365,60,25
+2/6/2026,PNEU-M2,Morning,480,25.9,Air pressure drop,380,55,26
+2/6/2026,PNEU-M2,Afternoon,480,21.2,Sensor fault,360,55,12
+2/6/2026,PNEU-M2,Night,480,55.6,Scheduled maintenance,311,55,21
+2/6/2026,PNEU-M3,Morning,480,30.8,Valve leakage,327,65,14
+2/6/2026,PNEU-M3,Afternoon,480,32,Valve leakage,404,65,13
+2/6/2026,PNEU-M3,Night,480,13.1,Valve leakage,453,65,12
+2/7/2026,PNEU-M1,Morning,480,31.7,Material shortage,410,60,16
+2/7/2026,PNEU-M1,Afternoon,480,69.6,Valve leakage,362,60,17
+2/7/2026,PNEU-M1,Night,480,14.1,Air pressure drop,428,60,3
+2/7/2026,PNEU-M2,Morning,480,8.4,Sensor fault,354,55,15
+2/7/2026,PNEU-M2,Afternoon,480,18.7,Operator break overrun,388,55,14
+2/7/2026,PNEU-M2,Night,480,20.4,Operator break overrun,367,55,9
+2/7/2026,PNEU-M3,Morning,480,15.9,Material shortage,394,65,19
+2/7/2026,PNEU-M3,Afternoon,480,40.4,Operator break overrun,416,65,19
+2/7/2026,PNEU-M3,Night,480,20.2,Scheduled maintenance,406,65,9
+2/8/2026,PNEU-M1,Morning,480,44,Scheduled maintenance,353,60,17
+2/8/2026,PNEU-M1,Afternoon,480,0,No downtime,420,60,22
+2/8/2026,PNEU-M1,Night,480,9.9,Air pressure drop,417,60,20
+2/8/2026,PNEU-M2,Morning,480,30.1,Scheduled maintenance,393,55,15
+2/8/2026,PNEU-M2,Afternoon,480,28.4,Scheduled maintenance,305,55,11
+2/8/2026,PNEU-M2,Night,480,8.5,Sensor fault,408,55,20
+2/8/2026,PNEU-M3,Morning,480,16.8,Air pressure drop,439,65,15
+2/8/2026,PNEU-M3,Afternoon,480,18.2,Scheduled maintenance,421,65,22
+2/8/2026,PNEU-M3,Night,480,5,Sensor fault,437,65,19
+2/9/2026,PNEU-M1,Morning,480,21.4,Operator break overrun,375,60,12
+2/9/2026,PNEU-M1,Afternoon,480,0,No downtime,344,60,23
+2/9/2026,PNEU-M1,Night,480,17.7,Valve leakage,461,60,31
+2/9/2026,PNEU-M2,Morning,480,67,Sensor fault,350,55,16
+2/9/2026,PNEU-M2,Afternoon,480,56,Material shortage,363,55,22
+2/9/2026,PNEU-M2,Night,480,24.8,Material shortage,398,55,13
+2/9/2026,PNEU-M3,Morning,480,0,No downtime,461,65,8
+2/9/2026,PNEU-M3,Afternoon,480,15.4,Sensor fault,451,65,8
+2/9/2026,PNEU-M3,Night,480,13.2,Material shortage,464,65,22
+2/10/2026,PNEU-M1,Morning,480,21.7,Scheduled maintenance,391,60,16
+2/10/2026,PNEU-M1,Afternoon,480,0,No downtime,447,60,16
+2/10/2026,PNEU-M1,Night,480,12.3,Valve leakage,412,60,17
+2/10/2026,PNEU-M2,Morning,480,29.9,Material shortage,349,55,27
+2/10/2026,PNEU-M2,Afternoon,480,68.1,Material shortage,307,55,12
+2/10/2026,PNEU-M2,Night,480,17.6,Sensor fault,372,55,18
+2/10/2026,PNEU-M3,Morning,480,5.6,Sensor fault,400,65,8
+2/10/2026,PNEU-M3,Afternoon,480,0,No downtime,412,65,12
+2/10/2026,PNEU-M3,Night,480,27.4,Valve leakage,490,65,5
+2/11/2026,PNEU-M1,Morning,480,6.6,Valve leakage,415,60,27
+2/11/2026,PNEU-M1,Afternoon,480,36.6,Material shortage,363,60,18
+2/11/2026,PNEU-M1,Night,480,5.2,Air pressure drop,421,60,16
+2/11/2026,PNEU-M2,Morning,480,0,No downtime,414,55,16
+2/11/2026,PNEU-M2,Afternoon,480,14.8,Material shortage,397,55,38
+2/11/2026,PNEU-M2,Night,480,18.4,Air pressure drop,364,55,8
+2/11/2026,PNEU-M3,Morning,480,19.9,Valve leakage,441,65,21
+2/11/2026,PNEU-M3,Afternoon,480,0,No downtime,399,65,10
+2/11/2026,PNEU-M3,Night,480,14.1,Sensor fault,431,65,15
+2/12/2026,PNEU-M1,Morning,480,16.5,Operator break overrun,448,60,14
+2/12/2026,PNEU-M1,Afternoon,480,7.1,Material shortage,365,60,17
+2/12/2026,PNEU-M1,Night,480,46.6,Valve leakage,381,60,14
+2/12/2026,PNEU-M2,Morning,480,12.4,Air pressure drop,407,55,16
+2/12/2026,PNEU-M2,Afternoon,480,11.6,Scheduled maintenance,291,55,14
+2/12/2026,PNEU-M2,Night,480,5.8,Sensor fault,341,55,22
+2/12/2026,PNEU-M3,Morning,480,27.4,Material shortage,362,65,7
+2/12/2026,PNEU-M3,Afternoon,480,14.6,Sensor fault,443,65,9
+2/12/2026,PNEU-M3,Night,480,23.3,Material shortage,409,65,12
+2/13/2026,PNEU-M1,Morning,480,12,Operator break overrun,427,60,20
+2/13/2026,PNEU-M1,Afternoon,480,33.3,Scheduled maintenance,357,60,15
+2/13/2026,PNEU-M1,Night,480,20,Air pressure drop,400,60,15
+2/13/2026,PNEU-M2,Morning,480,50.9,Material shortage,379,55,20
+2/13/2026,PNEU-M2,Afternoon,480,12,Sensor fault,384,55,20
+2/13/2026,PNEU-M2,Night,480,27,Operator break overrun,341,55,19
+2/13/2026,PNEU-M3,Morning,480,11,Sensor fault,419,65,4
+2/13/2026,PNEU-M3,Afternoon,480,11.7,Valve leakage,484,65,18
+2/13/2026,PNEU-M3,Night,480,14.5,Operator break overrun,404,65,23
+2/14/2026,PNEU-M1,Morning,480,20.1,Scheduled maintenance,406,60,23
+2/14/2026,PNEU-M1,Afternoon,480,45,Operator break overrun,384,60,17
+2/14/2026,PNEU-M1,Night,480,11.1,Sensor fault,409,60,10
+2/14/2026,PNEU-M2,Morning,480,33.7,Air pressure drop,331,55,20
+2/14/2026,PNEU-M2,Afternoon,480,58.1,Material shortage,360,55,13
+2/14/2026,PNEU-M2,Night,480,20,Operator break overrun,375,55,19
+2/14/2026,PNEU-M3,Morning,480,17.3,Operator break overrun,445,65,17
+2/14/2026,PNEU-M3,Afternoon,480,22.6,Scheduled maintenance,382,65,14
+2/14/2026,PNEU-M3,Night,480,0,No downtime,347,65,2
+2/15/2026,PNEU-M1,Morning,480,30.2,Material shortage,368,60,14
+2/15/2026,PNEU-M1,Afternoon,480,12,Material shortage,395,60,13
+2/15/2026,PNEU-M1,Night,480,28.4,Valve leakage,414,60,19
+2/15/2026,PNEU-M2,Morning,480,24,Sensor fault,360,55,13
+2/15/2026,PNEU-M2,Afternoon,480,41.2,Material shortage,329,55,14
+2/15/2026,PNEU-M2,Night,480,21.2,Air pressure drop,350,55,4
+2/15/2026,PNEU-M3,Morning,480,10.5,Scheduled maintenance,462,65,11
+2/15/2026,PNEU-M3,Afternoon,480,7.6,Valve leakage,441,65,21
+2/15/2026,PNEU-M3,Night,480,40,Operator break overrun,385,65,17
+2/16/2026,PNEU-M1,Morning,480,0,No downtime,388,60,26
+2/16/2026,PNEU-M1,Afternoon,480,30.4,Operator break overrun,348,60,15
+2/16/2026,PNEU-M1,Night,480,32.7,Air pressure drop,398,60,9
+2/16/2026,PNEU-M2,Morning,480,21.4,Sensor fault,420,55,11
+2/16/2026,PNEU-M2,Afternoon,480,53.1,Sensor fault,387,55,12
+2/16/2026,PNEU-M2,Night,480,31.1,Sensor fault,411,55,18
+2/16/2026,PNEU-M3,Morning,480,14.6,Air pressure drop,450,65,12
+2/16/2026,PNEU-M3,Afternoon,480,0,No downtime,475,65,18
+2/16/2026,PNEU-M3,Night,480,11.5,Operator break overrun,366,65,6
+2/17/2026,PNEU-M1,Morning,480,15.6,Operator break overrun,464,60,13
+2/17/2026,PNEU-M1,Afternoon,480,36.6,Scheduled maintenance,381,60,12
+2/17/2026,PNEU-M1,Night,480,28.8,Operator break overrun,400,60,32
+2/17/2026,PNEU-M2,Morning,480,30.8,Operator break overrun,344,55,21
+2/17/2026,PNEU-M2,Afternoon,480,14.4,Scheduled maintenance,399,55,19
+2/17/2026,PNEU-M2,Night,480,22.3,Material shortage,344,55,9
+2/17/2026,PNEU-M3,Morning,480,20.3,Operator break overrun,437,65,6
+2/17/2026,PNEU-M3,Afternoon,480,24.9,Sensor fault,400,65,15
+2/17/2026,PNEU-M3,Night,480,37.9,Material shortage,441,65,19
+2/18/2026,PNEU-M1,Morning,480,35,Sensor fault,411,60,17
+2/18/2026,PNEU-M1,Afternoon,480,0,No downtime,373,60,24
+2/18/2026,PNEU-M1,Night,480,6.4,Scheduled maintenance,398,60,16
+2/18/2026,PNEU-M2,Morning,480,38.6,Sensor fault,351,55,19
+2/18/2026,PNEU-M2,Afternoon,480,8.8,Operator break overrun,369,55,12
+2/18/2026,PNEU-M2,Night,480,0,No downtime,351,55,13
+2/18/2026,PNEU-M3,Morning,480,14.3,Air pressure drop,421,65,6
+2/18/2026,PNEU-M3,Afternoon,480,27.3,Operator break overrun,403,65,9
+2/18/2026,PNEU-M3,Night,480,0,No downtime,499,65,16
+2/19/2026,PNEU-M1,Morning,480,20.7,Scheduled maintenance,399,60,4
+2/19/2026,PNEU-M1,Afternoon,480,36.8,Sensor fault,397,60,1
+2/19/2026,PNEU-M1,Night,480,5.1,Operator break overrun,405,60,14
+2/19/2026,PNEU-M2,Morning,480,40.5,Operator break overrun,266,55,14
+2/19/2026,PNEU-M2,Afternoon,480,32.1,Operator break overrun,392,55,27
+2/19/2026,PNEU-M2,Night,480,25.4,Material shortage,416,55,16
+2/19/2026,PNEU-M3,Morning,480,12.9,Scheduled maintenance,383,65,8
+2/19/2026,PNEU-M3,Afternoon,480,14.4,Material shortage,425,65,13
+2/19/2026,PNEU-M3,Night,480,10.8,Operator break overrun,497,65,15
+2/20/2026,PNEU-M1,Morning,480,34.7,Scheduled maintenance,387,60,20
+2/20/2026,PNEU-M1,Afternoon,480,0,No downtime,350,60,7
+2/20/2026,PNEU-M1,Night,480,18.6,Valve leakage,373,60,11
+2/20/2026,PNEU-M2,Morning,480,16.3,Operator break overrun,395,55,9
+2/20/2026,PNEU-M2,Afternoon,480,10.9,Sensor fault,398,55,6
+2/20/2026,PNEU-M2,Night,480,20.4,Scheduled maintenance,320,55,18
+2/20/2026,PNEU-M3,Morning,480,7.7,Valve leakage,480,65,29
+2/20/2026,PNEU-M3,Afternoon,480,0,No downtime,462,65,16
+2/20/2026,PNEU-M3,Night,480,8.3,Scheduled maintenance,444,65,9
+2/21/2026,PNEU-M1,Morning,480,0,No downtime,451,60,13
+2/21/2026,PNEU-M1,Afternoon,480,17.7,Air pressure drop,388,60,8
+2/21/2026,PNEU-M1,Night,480,16.5,Valve leakage,408,60,36
+2/21/2026,PNEU-M2,Morning,480,7.3,Scheduled maintenance,294,55,30
+2/21/2026,PNEU-M2,Afternoon,480,48.1,Valve leakage,343,55,29
+2/21/2026,PNEU-M2,Night,480,7.9,Operator break overrun,373,55,17
+2/21/2026,PNEU-M3,Morning,480,0,No downtime,482,65,10
+2/21/2026,PNEU-M3,Afternoon,480,6.3,Material shortage,465,65,11
+2/21/2026,PNEU-M3,Night,480,52.4,Sensor fault,410,65,11
+2/22/2026,PNEU-M1,Morning,480,30.5,Air pressure drop,377,60,13
+2/22/2026,PNEU-M1,Afternoon,480,9.9,Operator break overrun,406,60,19
+2/22/2026,PNEU-M1,Night,480,23.8,Scheduled maintenance,359,60,15
+2/22/2026,PNEU-M2,Morning,480,11.4,Material shortage,364,55,31
+2/22/2026,PNEU-M2,Afternoon,480,40.6,Valve leakage,354,55,22
+2/22/2026,PNEU-M2,Night,480,21,Valve leakage,303,55,5
+2/22/2026,PNEU-M3,Morning,480,6.9,Scheduled maintenance,469,65,15
+2/22/2026,PNEU-M3,Afternoon,480,10.8,Air pressure drop,350,65,10
+2/22/2026,PNEU-M3,Night,480,0,No downtime,466,65,11
+2/23/2026,PNEU-M1,Morning,480,15,Material shortage,435,60,18
+2/23/2026,PNEU-M1,Afternoon,480,11.1,Sensor fault,369,60,9
+2/23/2026,PNEU-M1,Night,480,24.4,Scheduled maintenance,323,60,9
+2/23/2026,PNEU-M2,Morning,480,43.4,Material shortage,309,55,20
+2/23/2026,PNEU-M2,Afternoon,480,10.9,Operator break overrun,358,55,15
+2/23/2026,PNEU-M2,Night,480,26.3,Air pressure drop,369,55,16
+2/23/2026,PNEU-M3,Morning,480,11.7,Valve leakage,437,65,21
+2/23/2026,PNEU-M3,Afternoon,480,7.6,Operator break overrun,358,65,7
+2/23/2026,PNEU-M3,Night,480,15.3,Valve leakage,446,65,20
+2/24/2026,PNEU-M1,Morning,480,18.1,Valve leakage,377,60,11
+2/24/2026,PNEU-M1,Afternoon,480,14.6,Scheduled maintenance,403,60,16
+2/24/2026,PNEU-M1,Night,480,19.3,Operator break overrun,460,60,15
+2/24/2026,PNEU-M2,Morning,480,22.8,Valve leakage,398,55,23
+2/24/2026,PNEU-M2,Afternoon,480,27.5,Valve leakage,308,55,18
+2/24/2026,PNEU-M2,Night,480,8.2,Material shortage,390,55,11
+2/24/2026,PNEU-M3,Morning,480,0,No downtime,476,65,25
+2/24/2026,PNEU-M3,Afternoon,480,23.6,Sensor fault,425,65,13
+2/24/2026,PNEU-M3,Night,480,58.5,Scheduled maintenance,351,65,10
+2/25/2026,PNEU-M1,Morning,480,14.7,Valve leakage,361,60,14
+2/25/2026,PNEU-M1,Afternoon,480,6.2,Valve leakage,432,60,15
+2/25/2026,PNEU-M1,Night,480,0,No downtime,480,60,24
+2/25/2026,PNEU-M2,Morning,480,23,Sensor fault,347,55,25
+2/25/2026,PNEU-M2,Afternoon,480,14.7,Air pressure drop,377,55,18
+2/25/2026,PNEU-M2,Night,480,37.7,Material shortage,363,55,5
+2/25/2026,PNEU-M3,Morning,480,7.2,Valve leakage,461,65,8
+2/25/2026,PNEU-M3,Afternoon,480,41.3,Operator break overrun,473,65,21
+2/25/2026,PNEU-M3,Night,480,21.6,Material shortage,434,65,16
+2/26/2026,PNEU-M1,Morning,480,9.9,Sensor fault,470,60,18
+2/26/2026,PNEU-M1,Afternoon,480,19.8,Sensor fault,366,60,18
+2/26/2026,PNEU-M1,Night,480,28.7,Air pressure drop,435,60,19
+2/26/2026,PNEU-M2,Morning,480,59.3,Operator break overrun,355,55,17
+2/26/2026,PNEU-M2,Afternoon,480,32.2,Sensor fault,315,55,22
+2/26/2026,PNEU-M2,Night,480,10.6,Air pressure drop,404,55,27
+2/26/2026,PNEU-M3,Morning,480,13.3,Material shortage,461,65,6
+2/26/2026,PNEU-M3,Afternoon,480,7.2,Operator break overrun,462,65,17
+2/26/2026,PNEU-M3,Night,480,16.5,Material shortage,489,65,24
+2/27/2026,PNEU-M1,Morning,480,19.1,Operator break overrun,375,60,18
+2/27/2026,PNEU-M1,Afternoon,480,0,No downtime,425,60,12
+2/27/2026,PNEU-M1,Night,480,18.8,Valve leakage,361,60,21
+2/27/2026,PNEU-M2,Morning,480,11.2,Valve leakage,419,55,15
+2/27/2026,PNEU-M2,Afternoon,480,33.3,Sensor fault,371,55,9
+2/27/2026,PNEU-M2,Night,480,10,Material shortage,382,55,20
+2/27/2026,PNEU-M3,Morning,480,27.5,Sensor fault,440,65,14
+2/27/2026,PNEU-M3,Afternoon,480,20.9,Sensor fault,372,65,13
+2/27/2026,PNEU-M3,Night,480,0,No downtime,406,65,10
+2/28/2026,PNEU-M1,Morning,480,30.9,Sensor fault,373,60,10
+2/28/2026,PNEU-M1,Afternoon,480,0,No downtime,383,60,22
+2/28/2026,PNEU-M1,Night,480,42.5,Air pressure drop,350,60,5
+2/28/2026,PNEU-M2,Morning,480,16.5,Operator break overrun,374,55,7
+2/28/2026,PNEU-M2,Afternoon,480,58.2,Valve leakage,290,55,9
+2/28/2026,PNEU-M2,Night,480,39.6,Material shortage,330,55,19
+2/28/2026,PNEU-M3,Morning,480,14.5,Scheduled maintenance,452,65,5
+2/28/2026,PNEU-M3,Afternoon,480,6.9,Operator break overrun,467,65,14
+2/28/2026,PNEU-M3,Night,480,33.9,Valve leakage,395,65,16
+3/1/2026,PNEU-M1,Morning,480,0,No downtime,442,60,14
+3/1/2026,PNEU-M1,Afternoon,480,19.4,Operator break overrun,424,60,21
+3/1/2026,PNEU-M1,Night,480,34.4,Air pressure drop,361,60,4
+3/1/2026,PNEU-M2,Morning,480,29.6,Operator break overrun,382,55,3
+3/1/2026,PNEU-M2,Afternoon,480,100.2,Material shortage,319,55,11
+3/1/2026,PNEU-M2,Night,480,9.3,Scheduled maintenance,346,55,10
+3/1/2026,PNEU-M3,Morning,480,23.6,Operator break overrun,473,65,6
+3/1/2026,PNEU-M3,Afternoon,480,7.5,Air pressure drop,400,65,9
+3/1/2026,PNEU-M3,Night,480,10,Sensor fault,399,65,22
