@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30074103/README.md)
-# Pneumatic Line OEE Dashboard — Implementation Guide
+# Pneumatic  OEE Dashboard Implementation Guide
 
 ## What this project does
 Simulates a pneumatic assembly line with 3 machines running 3 shifts a day
